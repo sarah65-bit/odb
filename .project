@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>loan</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>loan</name>
+			<type>2</type>
+			<location>G:/objectdb-2.9.1/objectdb-2.9.1/bin</location>
+		</link>
+		<link>
+			<name>reference</name>
+			<type>2</type>
+			<location>G:/objectdb-2.9.1/objectdb-2.9.1/src/jpa_2.0</location>
+		</link>
+	</linkedResources>
+</projectDescription>
